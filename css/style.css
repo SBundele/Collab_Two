@@ -1,6 +1,7 @@
 .upper-nav{
     display: flex;
     justify-content: space-between;
+    background-color: #252525;
 }
 .more-brands{
     display: flex;
@@ -16,4 +17,9 @@
     display: flex;
     align-items: center;
     gap: 10px;
+}
+.birla-logo{
+    height:50px;
+    width:50px;
+    background-image: url("/Collab_Two/images/birla-logo.png");
 }
